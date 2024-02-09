@@ -1,0 +1,10 @@
+.calendario1{
+    display: inline-flex;
+}
+
+td,table{
+    border: black 1px solid;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
